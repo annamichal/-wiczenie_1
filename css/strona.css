@@ -1,0 +1,55 @@
+.jumbotron {
+	background-color: white;
+	padding: 3rem;
+}
+
+.container {
+	background-color: #eeeeee;
+}
+
+.card {
+	background-color: #eeeeee;
+	border: none;
+}
+
+.header {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.figure {
+	width: 94%;
+	background-color: white;
+	margin: auto;
+}
+
+.figure-img {
+	padding: .5% .5% 0 .5%;
+}
+
+figure {
+	text-align: center;
+}
+
+.figure-caption {
+	padding-bottom: 1%;
+}
+
+.card-title {
+	text-align: center;
+}
+
+h1, h2, h5, li {
+	font-family: 'Cabin', sans-serif;
+}
+li {
+	font-size: .8rem;
+}
+
+.btn {
+	font-size: .8rem;
+}
+
+h1 {
+	letter-spacing: .2em;
+}
