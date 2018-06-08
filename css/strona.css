@@ -1,55 +1,51 @@
-.jumbotron {
+#main {
 	background-color: white;
-	padding: 3rem;
+	padding: 1rem .1rem;
 }
 
 .container {
 	background-color: #eeeeee;
 }
 
-.card {
-	background-color: #eeeeee;
-	border: none;
-}
-
-.header {
+#title {
 	text-align: center;
 	padding-top: 5%;
 }
 
-.figure {
-	width: 94%;
+#img-div {
 	background-color: white;
-	margin: auto;
+	margin: 0 0 20px 0;
 }
 
-.figure-img {
-	padding: .5% .5% 0 .5%;
+#image {
+	padding: 1% 1% 0 1%;
+	width: 100%;
+	display: block;
+	height: auto;
 }
 
-figure {
-	text-align: center;
-}
-
-.figure-caption {
+#img-caption {
 	padding-bottom: 1%;
+	text-align: center;
 }
 
-.card-title {
-	text-align: center;
+h1 {
+	letter-spacing: .2em;
 }
 
 h1, h2, h5, li {
 	font-family: 'Cabin', sans-serif;
 }
+
+h5 {
+	text-align: center;
+}
 li {
 	font-size: .8rem;
 }
 
-.btn {
+#tribute-link {
 	font-size: .8rem;
-}
-
-h1 {
-	letter-spacing: .2em;
+	display: flex;
+	justify-content: center;
 }
